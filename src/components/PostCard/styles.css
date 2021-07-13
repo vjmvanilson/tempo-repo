@@ -7,6 +7,7 @@
 .post:hover {
   transform: scale(1.05);
 }
+
 .post img {
   max-width: 100%;
 }
